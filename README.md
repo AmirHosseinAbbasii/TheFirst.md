@@ -4,4 +4,4 @@ i can _italic_ my words whith shortcut key of (ctrl+i)
 or i can to **bold** my words whith(ctrl+b)  
 
 chek list
-- [ ] the first 
+- [ ] the first
